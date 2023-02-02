@@ -1,0 +1,15 @@
+/Users/popov4ik/Desktop/GB/number1/bin/Debug/net6.0/number1
+/Users/popov4ik/Desktop/GB/number1/bin/Debug/net6.0/number1.deps.json
+/Users/popov4ik/Desktop/GB/number1/bin/Debug/net6.0/number1.runtimeconfig.json
+/Users/popov4ik/Desktop/GB/number1/bin/Debug/net6.0/number1.dll
+/Users/popov4ik/Desktop/GB/number1/bin/Debug/net6.0/number1.pdb
+/Users/popov4ik/Desktop/GB/number1/obj/Debug/net6.0/number1.csproj.AssemblyReference.cache
+/Users/popov4ik/Desktop/GB/number1/obj/Debug/net6.0/number1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/popov4ik/Desktop/GB/number1/obj/Debug/net6.0/number1.AssemblyInfoInputs.cache
+/Users/popov4ik/Desktop/GB/number1/obj/Debug/net6.0/number1.AssemblyInfo.cs
+/Users/popov4ik/Desktop/GB/number1/obj/Debug/net6.0/number1.csproj.CoreCompileInputs.cache
+/Users/popov4ik/Desktop/GB/number1/obj/Debug/net6.0/number1.dll
+/Users/popov4ik/Desktop/GB/number1/obj/Debug/net6.0/refint/number1.dll
+/Users/popov4ik/Desktop/GB/number1/obj/Debug/net6.0/number1.pdb
+/Users/popov4ik/Desktop/GB/number1/obj/Debug/net6.0/number1.genruntimeconfig.cache
+/Users/popov4ik/Desktop/GB/number1/obj/Debug/net6.0/ref/number1.dll
